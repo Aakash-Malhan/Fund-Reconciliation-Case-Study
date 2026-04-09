@@ -1,4 +1,3 @@
-readme2 = """# Fund Reconciliation Case Study
 ### Daily NAV Reconciliation | ERISA 401(k) & Defined Benefit Pension Plans
 
 ---
@@ -106,5 +105,3 @@ All 4 exceptions were documented with full root-cause analysis, corrective actio
 - Structured exception logs with root-cause documentation are essential for audit trails and client reporting transparency
 
 ---
-
-## Project Structure
